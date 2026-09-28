@@ -10,9 +10,9 @@ manifest:
     - name: zmk
       remote: zmkfirmware
       import: app/west.yml
-    - name: zmk-ardux
-      url: https://github.com/arduxio/zmk-ardux
+    - name: zmk-module-paintbrush
+      url: https://github.com/martinballhatchet/zmk-module-paintbrush
       revision: main
-      path: modules/zmk-ardux
+      path: modules/zmk-module-paintbrush
   self:
     path: config
