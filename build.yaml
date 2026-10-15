@@ -20,6 +20,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: the_paintbrush_left
+    shield: the_paintbrush_left_rain_toe
 #  - board: nice_nano_v2
 #    shield: the_paintbrush_right
